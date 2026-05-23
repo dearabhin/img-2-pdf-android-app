@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Document Sheet Shadow -->
+    <path
+        android:fillColor="#40000000"
+        android:pathData="M35,29 h38 c3,0 5,2 5,5 v48 c0,3 -2,5 -5,5 h-38 c-3,0 -5,-2 -5,-5 v-48 c0,-3 2,-5 5,-5 z" />
+
+    <!-- Central Document Sheet Body -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M33,27 h38 c3,0 5,2 5,5 v48 c0,3 -2,5 -5,5 h-33 c-3,0 -5,-2 -5,-5 v-48 c0,-3 2,-5 5,-5 z" />
+
+    <!-- Folded Dog-ear corner -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M66,27 l10,10 h-7 c-1.5,0 -3,-1.5 -3,-3 z" />
+
+    <!-- Simulated Text Lines inside document -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M38,41 h24 v3 h-24 z M38,48 h30 v3 h-30 z M38,55 h30 v3 h-30 z M38,62 h20 v3 h-20 z M38,69 h15 v3 h-15 z" />
+
+    <!-- PDF Brand Stamp pill / banner -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M54,66 h18 v8 h-18 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,68 h2 c0.5,0 0.8,0.2 0.8,0.6 c0,0.4 -0.3,0.6 -0.8,0.6 h-1 v1.2 h-1 z // P" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,68 h1 c0.8,0 1.2,0.4 1.2,1.2 c0,0.8 -0.4,1.2 -1.2,1.2 h-1 z // D" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,68 h2.5 v0.7 h-1.8 v0.6 h1.5 v0.7 h-1.5 v1.2 h-0.7 z // F" />
+
+    <!-- Security glowing holographic lens overlay -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M24,51 h60 v3 h-60 z" />
+
+    <!-- Scanning line glows -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M24,50.2 h60 v0.8 h-60 z M24,54 h60 v0.8 h-60 z" />
+
+</vector>

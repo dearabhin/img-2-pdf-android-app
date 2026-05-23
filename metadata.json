@@ -1,0 +1,6 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "Convert images to PDF files, reorder pages, apply filters, and secure your files in an encrypted cloud storage simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
